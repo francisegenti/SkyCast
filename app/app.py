@@ -401,7 +401,7 @@ HTML_TEMPLATE = '''
 
         </div>
 
-        <div class="footer">Skycast · Powered by OpenWeatherMap</div>
+        <div class="footer">Skycast · Real-time weather worldwide</div>
     </div>
 
     <script>
