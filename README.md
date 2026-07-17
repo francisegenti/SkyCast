@@ -43,28 +43,6 @@ No manual steps required after a code push.
 
 ---
 
-## Evidence
-
-### App Running on AWS
-![App Running](evidence/05-alb-url-working.png)
-
-### Weather Search Result
-![Weather Search](evidence/07-weather-search-result.png)
-
-### CI/CD Pipeline Passing
-![CI/CD Pipeline](evidence/06-cicd-pipeline-passing.png)
-
-### Docker Build
-![Docker Build](evidence/02-docker-build.png)
-
-### ECR Image
-![ECR Image](evidence/03-ecr-image.png)
-
-### ECS Service Running
-![ECS Service](evidence/04-ecs-service-running.png)
-
----
-
 ## Prerequisites
 
 - AWS CLI installed and configured
